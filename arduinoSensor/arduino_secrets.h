@@ -1,0 +1,5 @@
+#define SECRET_SSID "TP-Link_FA8F"
+#define SECRET_PASS "Nuppu-Rusina123!"
+#define SECRET_APIKEY1 "uNYkQQuSE1H1CchxZwdVZFbdrVEyRNNu"
+#define SECRET_APIKEY2 "gceOJgRqmjOrt7oi9mvTZEAFNtPP6us6"
+#define SECRET_APIKEY3 "8bd3cea56cfa5dfca947f135a9e18814"
